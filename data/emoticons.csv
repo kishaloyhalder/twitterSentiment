@@ -1,0 +1,22 @@
+SNo.	Classification of Emoticons	Typographical symbols used	Sentiment
+1	Happiness/Smile	:-) =) :) :]	Positive
+2	Sadness	:-( =( :[ :(	Negative
+3	Wink	;-) ;)	Positive
+4	Teasing/kidding	;-P ;P ;-p ;p :-P :P :-p :p	Positive
+5	Amused	:-D :D =D	Positive
+6	Anger	>:( >:-(	Negative
+7	Kiss	:-* :*	Positive
+8	Confused	o.O O.o	Negative
+9	Embarrased	:-$ =$ >///<	Negative
+10	Devil	3:) 3:-)	Negative
+11	Cool	8-) B-) 8) B)	Positive
+12	Unsure	:/ :-/ :\ :-\	Negative
+13	Cry	:'( :'-(	Negative
+14	Love/Heart	<3	Positive
+15	Shy	^_^	Positive
+16	Blessed	O:-) O:)	Positive
+17	Hug	>(^_^)< <(^_^)>	Positive
+18	Squint	-_-	Negative
+19	Surprised	:-o :-O :-o	Positive
+20	Thumbs up	(y)	Positive
+21	Thumbs down	(n)	Negative
